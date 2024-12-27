@@ -12,6 +12,8 @@ public class Basic_01 {
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.google.com");
 		
+		System.out.println("Updated File1");
+		
 		Dimension d=new Dimension(500, 400);
 		driver.manage().window().setSize(d);
 		
