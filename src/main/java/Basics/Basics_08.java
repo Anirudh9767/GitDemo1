@@ -24,6 +24,11 @@ public class Basics_08 {
 			{
 				System.out.println(x.getAttribute("value"));
 			}
+			
+			System.out.println("Hello");
+			System.out.println("Hello");
+			System.out.println("Hello");
+			
 		}
 		
 
