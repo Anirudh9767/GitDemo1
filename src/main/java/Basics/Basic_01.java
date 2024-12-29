@@ -13,6 +13,7 @@ public class Basic_01 {
 		driver.get("https://www.google.com");
 		
 		System.out.println("Updated File1");
+		System.out.println("Upadated By American Time Zone Architect");
 		
 		Dimension d=new Dimension(500, 400);
 		driver.manage().window().setSize(d);

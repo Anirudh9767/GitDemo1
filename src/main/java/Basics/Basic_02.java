@@ -20,6 +20,7 @@ public class Basic_02 {
 		System.out.println(driver.findElement(By.xpath(".//div[text()='OnePlus Nord CE 3 Lite 5G (Pastel Lime, 256 GB)']/../..//div[@class='col col-5-12 BfVC2z']//div[text()='₹18,609']")).getText());
 	    System.out.println("Updated By X");
 	    System.out.println("Upadated By Asian Time Zone Architect");
+	    System.out.println("Upadated By American Time Zone Architect");
 		
 		
 	}
